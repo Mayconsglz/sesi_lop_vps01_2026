@@ -6,6 +6,6 @@
 |tecnologia| Descrição|
 |-|-|
 |Linguagem C|Dev|
-|[Draw.io](https://app.diagrams.net)|Diagramas|
+|[Draw.io](https://app.diagrams.net/)|Diagramas|
 |IDE|Embarcadero DevC++|
 |Bloco de notas|Portugol|
